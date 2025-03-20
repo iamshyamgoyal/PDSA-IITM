@@ -28,4 +28,4 @@ Each **Week X** folder contains:
 - The solutions may **not be fully optimized**. They are intended to help you understand the approach.
 - This repository is **not affiliated** with IIT Madras or any official program.
 
-Happy Learning!
+Happy Learning☺!
